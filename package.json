@@ -1,0 +1,27 @@
+{
+  "name": "grunt-translation-lint",
+  "version": "0.0.0",
+  "description": "Searches statically translated files for missed translation calls.",
+  "devDependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-contrib-jshint": "0.10.x",
+    "grunt-mocha-test": "0.12.x",
+    "jsgreat": "0.1.x",
+    "load-grunt-tasks": "0.6.x",
+    "mocha": "1.21.x"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beck/grunt-translation-lint.git"
+  },
+  "author": "Douglas Beck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beck/grunt-translation-lint/issues"
+  },
+  "homepage": "https://github.com/beck/grunt-translation-lint"
+}
